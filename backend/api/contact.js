@@ -28,7 +28,7 @@ app.post('/api/contact', async (req, res) => {
 
     const mailOptions = {
       from: `${email}`,
-      to: 'musamjiakbar225@gmail.com, akbarali819911@gmail.com',
+      to: 'musamjiakbar225@gmail.com, casadesignstudio1@gmail.com',
       subject: 'CONTACTS DATA FROM THE CASA DESIGN WEBSITE',
       text: emailContent
     };
